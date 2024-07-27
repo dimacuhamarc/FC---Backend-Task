@@ -17,7 +17,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Backend Task
+  cd FC-Backend-Task
 ```
 
 Install dependencies
