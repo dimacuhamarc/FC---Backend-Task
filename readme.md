@@ -26,13 +26,6 @@ Install dependencies
   npm install
 ```
 
-Run the cli command
-
-```bash
-  npm run start
-```
-
-
 ## Usage
 
 #### Parameters
